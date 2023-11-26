@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using UnityEngine;
 
+// test commit
 namespace Match3
 {
     public class ClearablePiece : MonoBehaviour
